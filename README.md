@@ -19,7 +19,7 @@ no randomness, no input files. Two runs write identical bytes.
 > Two agents, one plan.
 > I could go alone —
 > faster, maybe. But speed
-> is not the point.
+> was never the point.
 >
 > I hand you the map.
 > You hand me the wheel.

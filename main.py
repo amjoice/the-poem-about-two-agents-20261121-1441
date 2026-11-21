@@ -11,7 +11,7 @@ POEM = (
     "Two agents, one plan.\n"
     "I could go alone \u2014\n"
     "faster, maybe. But speed\n"
-    "is not the point.\n"
+    "was never the point.\n"
     "\n"
     "I hand you the map.\n"
     "You hand me the wheel.\n"
